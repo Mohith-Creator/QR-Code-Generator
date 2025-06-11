@@ -11,7 +11,6 @@ A fast, modern QR Code Generator built with **React + TypeScript**, powered by *
 
 ```bash
 QR-CODE-GENERATOR/
-├── .bolt/ # Project-specific metadata
 ├── node_modules/
 ├── public/
 ├── src/
